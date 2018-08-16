@@ -4,3 +4,4 @@ replace-with = 'vendored-sources'
 
 [source.vendored-sources]
 directory = '@top_srcdir@/third_party/rust'
+ini-dir = '@top_srcdir@/ini-files'
